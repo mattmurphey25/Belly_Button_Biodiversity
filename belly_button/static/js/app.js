@@ -31,7 +31,7 @@ function buildCharts(sample) {
       mode: "markers",
       marker: {
         color: data.otu_ids,
-        colorscale: "RdBu",
+        colorscale: "Rainbow",
         size: data.sample_values
       },
       text: data.otu_labels,
