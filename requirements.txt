@@ -21,5 +21,4 @@ SQLAlchemy==1.2.10
 Werkzeug==0.14.1
 wincertstore==0.2
 wrapt==1.10.11
-
-psycopg2==2.7.3
+psycopg2==2.7.3.2
